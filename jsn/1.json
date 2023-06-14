@@ -1,0 +1,13 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "1",
+    "description": "tetst github",
+    "version": "123"
+  },
+  "tags": [],
+  "paths": {},
+  "components": {
+    "schemas": {}
+  }
+}
