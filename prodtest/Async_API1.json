@@ -1,0 +1,14 @@
+{
+  "asyncapi": "2.3.0",
+  "info": {
+    "title": "Async_API1",
+    "version": "1",
+    "description": "desc"
+  },
+  "servers": {},
+  "channels": {},
+  "components": {
+    "schemas": {}
+  },
+  "x-parser-spec-parsed": true
+}
